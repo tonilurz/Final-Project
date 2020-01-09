@@ -49,5 +49,5 @@ fitsome2 = lm(formula = `CPS Performance Policy Level` ~ `NWEA Math Attainment P
                 `ZIP Code` + `Supportive Environment` + `NWEA Reading Attainment Percentile All Grades` + 
                 `NWEA Math Growth Percentile All Grades`, data = ChiDataR)
 summary(fitsome2)
-
+ 
 
